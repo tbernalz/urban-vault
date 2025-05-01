@@ -46,6 +46,15 @@
         "tsConfigPath": "apps/docmanage-service/tsconfig.app.json"
       }
     },
+    "govsync": {
+      "type": "application",
+      "root": "apps/govsync",
+      "entryFile": "main",
+      "sourceRoot": "apps/govsync/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/govsync/tsconfig.app.json"
+      }
+    },
     "notifyhub-service": {
       "type": "application",
       "root": "apps/notifyhub-service",

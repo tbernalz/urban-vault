@@ -19,6 +19,15 @@
         "tsConfigPath": "apps/api-gateway/tsconfig.app.json"
       }
     },
+    "authx-service": {
+      "type": "application",
+      "root": "apps/authx-service",
+      "entryFile": "main",
+      "sourceRoot": "apps/authx-service/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/authx-service/tsconfig.app.json"
+      }
+    },
     "urban-vault": {
       "type": "application",
       "root": "apps/urban-vault",

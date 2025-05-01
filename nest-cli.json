@@ -28,6 +28,15 @@
         "tsConfigPath": "apps/authx-service/tsconfig.app.json"
       }
     },
+    "docgate-service": {
+      "type": "application",
+      "root": "apps/docgate-service",
+      "entryFile": "main",
+      "sourceRoot": "apps/docgate-service/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/docgate-service/tsconfig.app.json"
+      }
+    },
     "docmanage-service": {
       "type": "application",
       "root": "apps/docmanage-service",

@@ -28,6 +28,15 @@
         "tsConfigPath": "apps/authx-service/tsconfig.app.json"
       }
     },
+    "docmanage-service": {
+      "type": "application",
+      "root": "apps/docmanage-service",
+      "entryFile": "main",
+      "sourceRoot": "apps/docmanage-service/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/docmanage-service/tsconfig.app.json"
+      }
+    },
     "urban-vault": {
       "type": "application",
       "root": "apps/urban-vault",

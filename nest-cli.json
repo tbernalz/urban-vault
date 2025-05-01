@@ -46,6 +46,15 @@
         "tsConfigPath": "apps/docmanage-service/tsconfig.app.json"
       }
     },
+    "notifyhub-service": {
+      "type": "application",
+      "root": "apps/notifyhub-service",
+      "entryFile": "main",
+      "sourceRoot": "apps/notifyhub-service/src",
+      "compilerOptions": {
+        "tsConfigPath": "apps/notifyhub-service/tsconfig.app.json"
+      }
+    },
     "urban-vault": {
       "type": "application",
       "root": "apps/urban-vault",
